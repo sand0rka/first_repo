@@ -1,8 +1,8 @@
-#include <stdio.h>
+#include <stdio.h> // my first lab
 #include <math.h>
 
 int main() {
-	float x,y,res;
+	float x,y,res; 
 
 	x = 0.042;
 	y = 3.03;
